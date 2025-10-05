@@ -2,7 +2,7 @@ Config = {}
 
 Config.Locale = 'cs'
 
-Config.Notify = 'okok' -- options: 'okok', 'mythic', 'ox', 'esx', 'chat'
+Config.Notify = 'esx' -- options: 'okok', 'mythic', 'ox', 'esx', 'chat'
 
 Config.blacklistedWeapons = {
     'WEAPON_RPG',
